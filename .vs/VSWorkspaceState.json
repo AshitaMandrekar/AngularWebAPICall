@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src\\app",
+    "\\src\\app\\helpers",
+    "\\src\\app\\models",
+    "\\src\\app\\models\\domain",
+    "\\src\\app\\models\\domain\\student",
+    "\\src\\app\\services"
+  ],
+  "SelectedNode": "\\package.json",
+  "PreviewInSolutionExplorer": false
+}
